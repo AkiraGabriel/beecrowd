@@ -1,0 +1,6 @@
+R = float(input("R: "))
+
+pi = 3.14159
+VOLUME = R**3*(4/3.0)*pi
+
+print('VOLUME = {:.3f}'.format(VOLUME))
